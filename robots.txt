@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://instantcasino-italy.net/sitemap.xml

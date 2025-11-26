@@ -1,0 +1,19 @@
+{
+    "name": "instantcasinowin.net Online | Play Today with Fast Withdrawals",
+    "short_name": "instantcasinowin.net",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "instantcasinowin.net Online offers fast play with instant withdrawals, no verification required. Enjoy Casino Instant login and exciting gameplay.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
